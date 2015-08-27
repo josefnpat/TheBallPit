@@ -1,0 +1,1902 @@
+fileFormatVersion: 2
+guid: d319bb972fd144135823e0f7b3d3eae7
+timeCreated: 1440707708
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Backbone
+    100004: Bone_003
+    100006: Bone_004
+    100008: Bone_006
+    100010: Chicken
+    100012: //RootNode
+    100014: Cylinder
+    100016: Cylinder_MeshPart0
+    100018: Cylinder_MeshPart1
+    100020: Cylinder_MeshPart2
+    100022: Eyes
+    100024: Finger1_L
+    100026: Finger1_L_001
+    100028: Finger1_R
+    100030: Finger1_R_001
+    100032: Finger2_L
+    100034: Finger2_L_001
+    100036: Finger2_L_002
+    100038: Finger2_R
+    100040: Finger2_R_001
+    100042: Finger2_R_002
+    100044: Finger3_L
+    100046: Finger3_L_001
+    100048: Finger3_L_002
+    100050: Finger3_R
+    100052: Finger3_R_001
+    100054: Finger3_R_002
+    100056: Finger4_L
+    100058: Finger4_L_001
+    100060: Finger4_L_002
+    100062: Finger4_R
+    100064: Finger4_R_001
+    100066: Finger4_R_002
+    100068: Head
+    100070: Head_L
+    100072: Head_R
+    100074: Hip
+    100076: IK-Head
+    100078: IK-Knee_L
+    100080: IK-Knee_R
+    100082: IK-Leg_L
+    100084: IK-Leg_R
+    100086: Leg_L_001
+    100088: Leg_L_002
+    100090: Leg_R_001
+    100092: Leg_R_002
+    100094: Main
+    400000: Armature
+    400002: Backbone
+    400004: Bone_003
+    400006: Bone_004
+    400008: Bone_006
+    400010: Chicken
+    400012: //RootNode
+    400014: Cylinder
+    400016: Cylinder_MeshPart0
+    400018: Cylinder_MeshPart1
+    400020: Cylinder_MeshPart2
+    400022: Eyes
+    400024: Finger1_L
+    400026: Finger1_L_001
+    400028: Finger1_R
+    400030: Finger1_R_001
+    400032: Finger2_L
+    400034: Finger2_L_001
+    400036: Finger2_L_002
+    400038: Finger2_R
+    400040: Finger2_R_001
+    400042: Finger2_R_002
+    400044: Finger3_L
+    400046: Finger3_L_001
+    400048: Finger3_L_002
+    400050: Finger3_R
+    400052: Finger3_R_001
+    400054: Finger3_R_002
+    400056: Finger4_L
+    400058: Finger4_L_001
+    400060: Finger4_L_002
+    400062: Finger4_R
+    400064: Finger4_R_001
+    400066: Finger4_R_002
+    400068: Head
+    400070: Head_L
+    400072: Head_R
+    400074: Hip
+    400076: IK-Head
+    400078: IK-Knee_L
+    400080: IK-Knee_R
+    400082: IK-Leg_L
+    400084: IK-Leg_R
+    400086: Leg_L_001
+    400088: Leg_L_002
+    400090: Leg_R_001
+    400092: Leg_R_002
+    400094: Main
+    2300000: Cylinder_MeshPart0
+    2300002: Cylinder_MeshPart1
+    2300004: Cylinder_MeshPart2
+    3300000: Cylinder_MeshPart0
+    3300002: Cylinder_MeshPart1
+    3300004: Cylinder_MeshPart2
+    4300000: Chicken
+    4300002: Eyes
+    4300004: Cylinder_MeshPart0
+    4300006: Cylinder_MeshPart1
+    4300008: Cylinder_MeshPart2
+    7400000: Default Take
+    7400002: BeginPecking
+    7400004: Dying
+    7400006: Eating
+    7400008: EndPecking
+    7400010: Idle
+    7400012: Idle1
+    7400014: Idle2
+    7400016: Pecking1
+    7400018: Pecking2
+    7400020: Pecking3
+    7400022: Stand
+    7400024: StopPecking
+    7400026: Walk
+    7400028: Walk0
+    9500000: //RootNode
+    13700000: Chicken
+    13700002: Eyes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk0
+      takeName: Walk
+      firstFrame: 0
+      lastFrame: 53
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Cylinder
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart0
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart1
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart2
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/Hip
+        weight: 1
+      - path: Armature/Main/Hip/Backbone
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_L
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_R
+        weight: 1
+      - path: Armature/Main/Hip/Bone_006
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L/Finger1_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001/Finger2_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001/Finger3_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001/Finger4_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R/Finger1_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001/Finger2_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001/Finger3_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001/Finger4_R_002
+        weight: 1
+      - path: Armature/Main/IK-Head
+        weight: 1
+      - path: Armature/Main/IK-Knee_L
+        weight: 1
+      - path: Armature/Main/IK-Knee_R
+        weight: 1
+      - path: Armature/Main/IK-Leg_L
+        weight: 1
+      - path: Armature/Main/IK-Leg_R
+        weight: 1
+      - path: Chicken
+        weight: 1
+      - path: Eyes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BeginPecking
+      takeName: BeginPecking
+      firstFrame: 0
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Cylinder
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart0
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart1
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart2
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/Hip
+        weight: 1
+      - path: Armature/Main/Hip/Backbone
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_L
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_R
+        weight: 1
+      - path: Armature/Main/Hip/Bone_006
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L/Finger1_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001/Finger2_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001/Finger3_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001/Finger4_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R/Finger1_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001/Finger2_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001/Finger3_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001/Finger4_R_002
+        weight: 1
+      - path: Armature/Main/IK-Head
+        weight: 1
+      - path: Armature/Main/IK-Knee_L
+        weight: 1
+      - path: Armature/Main/IK-Knee_R
+        weight: 1
+      - path: Armature/Main/IK-Leg_L
+        weight: 1
+      - path: Armature/Main/IK-Leg_R
+        weight: 1
+      - path: Chicken
+        weight: 1
+      - path: Eyes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Dying
+      takeName: Dying
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Cylinder
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart0
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart1
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart2
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/Hip
+        weight: 1
+      - path: Armature/Main/Hip/Backbone
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_L
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_R
+        weight: 1
+      - path: Armature/Main/Hip/Bone_006
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L/Finger1_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001/Finger2_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001/Finger3_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001/Finger4_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R/Finger1_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001/Finger2_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001/Finger3_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001/Finger4_R_002
+        weight: 1
+      - path: Armature/Main/IK-Head
+        weight: 1
+      - path: Armature/Main/IK-Knee_L
+        weight: 1
+      - path: Armature/Main/IK-Knee_R
+        weight: 1
+      - path: Armature/Main/IK-Leg_L
+        weight: 1
+      - path: Armature/Main/IK-Leg_R
+        weight: 1
+      - path: Chicken
+        weight: 1
+      - path: Eyes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Eating
+      takeName: Eating
+      firstFrame: 0
+      lastFrame: 53
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Cylinder
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart0
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart1
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart2
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/Hip
+        weight: 1
+      - path: Armature/Main/Hip/Backbone
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_L
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_R
+        weight: 1
+      - path: Armature/Main/Hip/Bone_006
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L/Finger1_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001/Finger2_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001/Finger3_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001/Finger4_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R/Finger1_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001/Finger2_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001/Finger3_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001/Finger4_R_002
+        weight: 1
+      - path: Armature/Main/IK-Head
+        weight: 1
+      - path: Armature/Main/IK-Knee_L
+        weight: 1
+      - path: Armature/Main/IK-Knee_R
+        weight: 1
+      - path: Armature/Main/IK-Leg_L
+        weight: 1
+      - path: Armature/Main/IK-Leg_R
+        weight: 1
+      - path: Chicken
+        weight: 1
+      - path: Eyes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: EndPecking
+      takeName: EndPecking
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Cylinder
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart0
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart1
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart2
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/Hip
+        weight: 1
+      - path: Armature/Main/Hip/Backbone
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_L
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_R
+        weight: 1
+      - path: Armature/Main/Hip/Bone_006
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L/Finger1_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001/Finger2_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001/Finger3_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001/Finger4_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R/Finger1_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001/Finger2_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001/Finger3_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001/Finger4_R_002
+        weight: 1
+      - path: Armature/Main/IK-Head
+        weight: 1
+      - path: Armature/Main/IK-Knee_L
+        weight: 1
+      - path: Armature/Main/IK-Knee_R
+        weight: 1
+      - path: Armature/Main/IK-Leg_L
+        weight: 1
+      - path: Armature/Main/IK-Leg_R
+        weight: 1
+      - path: Chicken
+        weight: 1
+      - path: Eyes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 1185
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Cylinder
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart0
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart1
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart2
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/Hip
+        weight: 1
+      - path: Armature/Main/Hip/Backbone
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_L
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_R
+        weight: 1
+      - path: Armature/Main/Hip/Bone_006
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L/Finger1_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001/Finger2_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001/Finger3_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001/Finger4_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R/Finger1_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001/Finger2_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001/Finger3_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001/Finger4_R_002
+        weight: 1
+      - path: Armature/Main/IK-Head
+        weight: 1
+      - path: Armature/Main/IK-Knee_L
+        weight: 1
+      - path: Armature/Main/IK-Knee_R
+        weight: 1
+      - path: Armature/Main/IK-Leg_L
+        weight: 1
+      - path: Armature/Main/IK-Leg_R
+        weight: 1
+      - path: Chicken
+        weight: 1
+      - path: Eyes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle1
+      takeName: Idle1
+      firstFrame: 0
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Cylinder
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart0
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart1
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart2
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/Hip
+        weight: 1
+      - path: Armature/Main/Hip/Backbone
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_L
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_R
+        weight: 1
+      - path: Armature/Main/Hip/Bone_006
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L/Finger1_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001/Finger2_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001/Finger3_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001/Finger4_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R/Finger1_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001/Finger2_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001/Finger3_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001/Finger4_R_002
+        weight: 1
+      - path: Armature/Main/IK-Head
+        weight: 1
+      - path: Armature/Main/IK-Knee_L
+        weight: 1
+      - path: Armature/Main/IK-Knee_R
+        weight: 1
+      - path: Armature/Main/IK-Leg_L
+        weight: 1
+      - path: Armature/Main/IK-Leg_R
+        weight: 1
+      - path: Chicken
+        weight: 1
+      - path: Eyes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle2
+      takeName: Idle2
+      firstFrame: 0
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Cylinder
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart0
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart1
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart2
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/Hip
+        weight: 1
+      - path: Armature/Main/Hip/Backbone
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_L
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_R
+        weight: 1
+      - path: Armature/Main/Hip/Bone_006
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L/Finger1_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001/Finger2_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001/Finger3_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001/Finger4_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R/Finger1_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001/Finger2_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001/Finger3_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001/Finger4_R_002
+        weight: 1
+      - path: Armature/Main/IK-Head
+        weight: 1
+      - path: Armature/Main/IK-Knee_L
+        weight: 1
+      - path: Armature/Main/IK-Knee_R
+        weight: 1
+      - path: Armature/Main/IK-Leg_L
+        weight: 1
+      - path: Armature/Main/IK-Leg_R
+        weight: 1
+      - path: Chicken
+        weight: 1
+      - path: Eyes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Pecking1
+      takeName: Pecking1
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Cylinder
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart0
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart1
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart2
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/Hip
+        weight: 1
+      - path: Armature/Main/Hip/Backbone
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_L
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_R
+        weight: 1
+      - path: Armature/Main/Hip/Bone_006
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L/Finger1_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001/Finger2_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001/Finger3_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001/Finger4_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R/Finger1_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001/Finger2_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001/Finger3_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001/Finger4_R_002
+        weight: 1
+      - path: Armature/Main/IK-Head
+        weight: 1
+      - path: Armature/Main/IK-Knee_L
+        weight: 1
+      - path: Armature/Main/IK-Knee_R
+        weight: 1
+      - path: Armature/Main/IK-Leg_L
+        weight: 1
+      - path: Armature/Main/IK-Leg_R
+        weight: 1
+      - path: Chicken
+        weight: 1
+      - path: Eyes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Pecking2
+      takeName: Pecking2
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Cylinder
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart0
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart1
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart2
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/Hip
+        weight: 1
+      - path: Armature/Main/Hip/Backbone
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_L
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_R
+        weight: 1
+      - path: Armature/Main/Hip/Bone_006
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L/Finger1_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001/Finger2_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001/Finger3_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001/Finger4_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R/Finger1_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001/Finger2_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001/Finger3_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001/Finger4_R_002
+        weight: 1
+      - path: Armature/Main/IK-Head
+        weight: 1
+      - path: Armature/Main/IK-Knee_L
+        weight: 1
+      - path: Armature/Main/IK-Knee_R
+        weight: 1
+      - path: Armature/Main/IK-Leg_L
+        weight: 1
+      - path: Armature/Main/IK-Leg_R
+        weight: 1
+      - path: Chicken
+        weight: 1
+      - path: Eyes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Pecking3
+      takeName: Pecking3
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Cylinder
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart0
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart1
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart2
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/Hip
+        weight: 1
+      - path: Armature/Main/Hip/Backbone
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_L
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_R
+        weight: 1
+      - path: Armature/Main/Hip/Bone_006
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L/Finger1_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001/Finger2_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001/Finger3_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001/Finger4_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R/Finger1_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001/Finger2_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001/Finger3_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001/Finger4_R_002
+        weight: 1
+      - path: Armature/Main/IK-Head
+        weight: 1
+      - path: Armature/Main/IK-Knee_L
+        weight: 1
+      - path: Armature/Main/IK-Knee_R
+        weight: 1
+      - path: Armature/Main/IK-Leg_L
+        weight: 1
+      - path: Armature/Main/IK-Leg_R
+        weight: 1
+      - path: Chicken
+        weight: 1
+      - path: Eyes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Stand
+      takeName: Stand
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Cylinder
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart0
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart1
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart2
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/Hip
+        weight: 1
+      - path: Armature/Main/Hip/Backbone
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_L
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_R
+        weight: 1
+      - path: Armature/Main/Hip/Bone_006
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L/Finger1_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001/Finger2_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001/Finger3_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001/Finger4_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R/Finger1_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001/Finger2_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001/Finger3_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001/Finger4_R_002
+        weight: 1
+      - path: Armature/Main/IK-Head
+        weight: 1
+      - path: Armature/Main/IK-Knee_L
+        weight: 1
+      - path: Armature/Main/IK-Knee_R
+        weight: 1
+      - path: Armature/Main/IK-Leg_L
+        weight: 1
+      - path: Armature/Main/IK-Leg_R
+        weight: 1
+      - path: Chicken
+        weight: 1
+      - path: Eyes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: StopPecking
+      takeName: StopPecking
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Cylinder
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart0
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart1
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart2
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/Hip
+        weight: 1
+      - path: Armature/Main/Hip/Backbone
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_L
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_R
+        weight: 1
+      - path: Armature/Main/Hip/Bone_006
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L/Finger1_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001/Finger2_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001/Finger3_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001/Finger4_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R/Finger1_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001/Finger2_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001/Finger3_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001/Finger4_R_002
+        weight: 1
+      - path: Armature/Main/IK-Head
+        weight: 1
+      - path: Armature/Main/IK-Knee_L
+        weight: 1
+      - path: Armature/Main/IK-Knee_R
+        weight: 1
+      - path: Armature/Main/IK-Leg_L
+        weight: 1
+      - path: Armature/Main/IK-Leg_R
+        weight: 1
+      - path: Chicken
+        weight: 1
+      - path: Eyes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: 0
+      lastFrame: 53
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Cylinder
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart0
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart1
+        weight: 1
+      - path: Armature/Cylinder/Cylinder_MeshPart2
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/Hip
+        weight: 1
+      - path: Armature/Main/Hip/Backbone
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_L
+        weight: 1
+      - path: Armature/Main/Hip/Backbone/Bone_003/Bone_004/Head/Head_R
+        weight: 1
+      - path: Armature/Main/Hip/Bone_006
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger1_L/Finger1_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger2_L/Finger2_L_001/Finger2_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger3_L/Finger3_L_001/Finger3_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_L_001/Leg_L_002/Finger4_L/Finger4_L_001/Finger4_L_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger1_R/Finger1_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger2_R/Finger2_R_001/Finger2_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger3_R/Finger3_R_001/Finger3_R_002
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001
+        weight: 1
+      - path: Armature/Main/Hip/Leg_R_001/Leg_R_002/Finger4_R/Finger4_R_001/Finger4_R_002
+        weight: 1
+      - path: Armature/Main/IK-Head
+        weight: 1
+      - path: Armature/Main/IK-Knee_L
+        weight: 1
+      - path: Armature/Main/IK-Knee_R
+        weight: 1
+      - path: Armature/Main/IK-Leg_L
+        weight: 1
+      - path: Armature/Main/IK-Leg_R
+        weight: 1
+      - path: Chicken
+        weight: 1
+      - path: Eyes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
